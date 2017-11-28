@@ -1,0 +1,7 @@
+world:
+  cells: 40
+  species: 3
+  iterations: 4000000
+organisms:
+    - { x: 10, y: 10, species: 1 }
+    - { x: 10, y: 11, species: 1 }
